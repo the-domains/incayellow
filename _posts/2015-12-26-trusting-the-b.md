@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-26T18:34:29.391Z'
-dateModified: '2015-12-26T18:32:07.271Z'
+datePublished: '2015-12-26T18:41:45.570Z'
+dateModified: '2015-12-26T18:41:40.493Z'
 title: Trusting the B
 author: []
 authors: []
