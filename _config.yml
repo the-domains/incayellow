@@ -1,6 +1,6 @@
 name: Incayellow
 favicon: null
-layout_spectrum: 0.75254
+layout_spectrum: 0.48666
 typography_spectrum: 0.91617
 title: Incayellow
 cta:
@@ -24,6 +24,6 @@ color:
     - '#ad8000'
   brandStrength: 0.7998839947395027
   lightness: 0.2552361646667123
-  saturation: 0.75
-  rhythmicContrast: 0.75
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
