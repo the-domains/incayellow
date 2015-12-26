@@ -1,7 +1,7 @@
 name: Incayellow
 favicon: null
-layout_spectrum: 0.26143762189894915
-typography_spectrum: 0.10786391631700099
+layout_spectrum: 0.75254
+typography_spectrum: 0.32007
 title: Incayellow
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#0e0e10'
+    - '#767e89'
+    - '#e9c52f'
+    - '#ad8000'
   brandStrength: 0.7998839947395027
   lightness: 0.2552361646667123
-  saturation: 0.10961725772358477
-  rhythmicContrast: 0.8629027472343296
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
